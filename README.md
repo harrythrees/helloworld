@@ -1,3 +1,3 @@
 # helloworld
 My first repository
-This is to say that i've updated the readme telling you that this repository is for training purposes only.
+The previous line was silly, so I replaced it with this one.
